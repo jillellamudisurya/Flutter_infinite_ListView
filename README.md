@@ -1,6 +1,8 @@
-# flutter_first_app_infinitelistview
+# Infinite List View Using Flutter
 
-A new Flutter project.
+In this Application we generate a list of random words. It will generate infinite list.
+
+
 
 ## Getting Started
 
