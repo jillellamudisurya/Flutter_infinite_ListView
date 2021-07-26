@@ -2,9 +2,17 @@
 
 In this Application we generate a list of random words. It will generate infinite list.
 
+# Result 
 
 
-## Getting Started
+
+https://user-images.githubusercontent.com/83566935/126938179-0c6bd077-8f84-4ffa-8418-888da0f11a8f.mp4
+
+
+
+
+
+## Flutter Resources
 
 This project is a starting point for a Flutter application.
 
